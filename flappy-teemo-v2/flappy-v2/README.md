@@ -1,4 +1,4 @@
-# Flappy Teemo+ Enhanced Edition
+# Flappy Teemo
 
 ## Tính năng mới
 
