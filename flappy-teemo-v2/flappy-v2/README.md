@@ -20,7 +20,7 @@
 
 ### 4. Shop Mua Skin
 - Vào menu → SHOP
-- 4 skin: DEFAULT (free), GOLDEN (50xu), SHADOW (100xu), RAINBOW (200xu)
+- 4 skin: DEFAULT (free), GOLDEN (50xu), SHADOW (100xu), RAINBOW (200xu), DEMON(999xu)
 - RAINBOW skin đổi màu theo thời gian
 - Điều hướng: **↑↓**, Mua: **B**, Trang bị: **E**
 
